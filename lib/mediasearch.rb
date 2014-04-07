@@ -1,5 +1,8 @@
 require "mediasearch/version"
+require 'mediasearch/config'
+require 'mediasearch/media'
+require 'mediasearch/movie'
+require 'mediasearch/tv'
 
 module Mediasearch
-  # Your code goes here...
 end
